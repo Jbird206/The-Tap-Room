@@ -54,4 +54,4 @@ _Javascript, React, Html, Css, Bootstrap, Webpack, Babel, esLint_
 
 Copyright (c) 2020 **_Jason McGrady_**
 
-![image](https://user-images.githubusercontent.com/9637712/81764059-81f37a00-9485-11ea-9c96-7f751b7f8170.png)
+
