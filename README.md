@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Known Bugs
 
-_No known bugs_
+_images shift upon "ordering" a pint. "Beer of the day" are background shrinks upon entering a keg order form._
 
 ## Support and contact details
  
