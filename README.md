@@ -10,6 +10,8 @@
 
 _This React app has info about a beer store with what inventory they have and details of the products._
 
+![Image description](link-to-image)
+
 ## Setup/Installation Requirements
 
 In the project directory, you can run:
